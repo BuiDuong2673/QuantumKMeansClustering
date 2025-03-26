@@ -1,0 +1,11 @@
+Our new formula's same count: 141 and different count: 8
+Our new formula's same count: 142 and different count: 7
+Our new formula's same count: 143 and different count: 6
+Our new formula's same count: 146 and different count: 3
+Our new formula's same count: 144 and different count: 5
+Our new formula's same count: 144 and different count: 5
+Our new formula's same count: 141 and different count: 8
+Our new formula's same count: 143 and different count: 6
+Our new formula's same count: 144 and different count: 5
+Our new formula's same count: 143 and different count: 6
+Our new formula's iteration count is: 10

@@ -1,0 +1,11 @@
+Khan et al. formula's same count: 137 and different count: 12
+Khan et al. formula's same count: 136 and different count: 13
+Khan et al. formula's same count: 139 and different count: 10
+Khan et al. formula's same count: 135 and different count: 14
+Khan et al. formula's same count: 137 and different count: 12
+Khan et al. formula's same count: 132 and different count: 17
+Khan et al. formula's same count: 134 and different count: 15
+Khan et al. formula's same count: 138 and different count: 11
+Khan et al. formula's same count: 137 and different count: 12
+Khan et al. formula's same count: 132 and different count: 17
+Khan et al. formula's iteration count is: 10
